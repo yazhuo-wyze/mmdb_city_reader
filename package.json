@@ -1,0 +1,23 @@
+{
+  "name": "mmdb_city_reader",
+  "version": "1.0.0",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yazhuo-wyze/mmdb_city_reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yazhuo-wyze/mmdb_city_reader/issues"
+  },
+  "homepage": "https://github.com/yazhuo-wyze/mmdb_city_reader#readme",
+  "description": "",
+  "dependencies": {
+    "@maxmind/geoip2-node": "^5.0.0"
+  }
+}
